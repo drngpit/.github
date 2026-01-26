@@ -37,7 +37,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 33 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 34 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 35 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-36 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+36 | Padma Priya R | [Github](https://github.com/Padma1910/leetcode-solution) | [Leetcode](https://leetcode.com/u/Padma06ek0Q40/) | ![](https://leetcard.jacoblin.cool/Padma06ek0Q40)
 37 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 38 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 39 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
