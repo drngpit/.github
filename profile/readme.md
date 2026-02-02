@@ -49,7 +49,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 45 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 46 | SABARMATHI M | [Github](https://github.com/SABARMATHI16/leetcodetracksabari) | [Leetcode](https://leetcode.com/u/sabarmathi_/) | ![](https://leetcard.jacoblin.cool/sabarmathi_)
 47 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-48 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+48 | SAMYUKTHA RS | [Github](https://github.com/Samyuktha-rs/leetcodetrackersamyuktha) | [Leetcode](https://leetcode.com/u/SamyukthaRS/) | ![](https://leetcard.jacoblin.cool/SamyukthaRS)
 49 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 50 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 51 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
