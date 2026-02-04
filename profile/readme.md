@@ -27,7 +27,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 23 | KAVIN PRASATH K | [Github](https://github.com/Kavin-sudo1/leetcode-daily-practice) | [Leetcode](https://leetcode.com/u/Kavin-2006/) | ![](https://leetcard.jacoblin.cool/Kavin-2006)
 24 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 25 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-26 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+26 |  Logeshwari T | [Github](https://github.com/24149026-oss/leetcode-solution) | [Leetcode](https://leetcode.com/u/Logeshwari09/) | ![](https://leetcard.jacoblin.cool/Logeshwari09) 
 27 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 28 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 29 | Mahima S | [Github](https://github.com/MAHIMASELVARAJ/leetcodesolution) | [Leetcode](https://leetcode.com/u/MahimaSelvaraj/) | ![](https://leetcard.jacoblin.cool/MahimaSelvaraj) 
