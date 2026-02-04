@@ -13,7 +13,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 9 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 10 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 11 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-12 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+12 | | Divyasri K | [GitHub](https://github.com/divyasri242006) | [LeetCode](https://leetcode.com/u/Divya_5320074cGTfV/) | ![](https://leetcard.jacoblin.cool/Divya_5320074cGTfV) |
 13 | Gopikrishnan S | [Github](https://github.com/CyberCracker27/Leetcode) | [Leetcode](https://leetcode.com/u/CyberCracker27/) | ![](https://leetcard.jacoblin.cool/CyberCracker27)
 14 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 15 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
