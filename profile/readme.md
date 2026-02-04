@@ -37,7 +37,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 33 | Nishanthan M  | [Github](https://github.com/Nishanthan45/Leetcode-tracker) | [Leetcode](https://leetcode.com/Nishanthan_Mani) | ![](https://leetcard.jacoblin.cool/Nishanthan_Mani)
 34 | Nithya Shree V | [Github](https://github.com/NITHYASHREE0712/Leetcode-tracker-solution) | [Leetcode](https://leetcode.com/u/_nithya_07_/) | ![](https://leetcard.jacoblin.cool/_nithya_07_)
 35 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-36 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+36 | Padma Priya R | [Github](https://github.com/Padma1910/leetcode-solution.git) | [Leetcode](https://leetcode.com/u/Padma06) | ![](https://leetcard.jacoblin.cool/Padma06)
 37 | Parikshit G | [Github](https://github.com/Sololever19/lcodeparik) | [Leetcode](https://leetcode.com/u/SoloLever/) | ![](https://leetcard.jacoblin.cool/SoloLever)
 38 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 39 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
