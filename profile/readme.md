@@ -29,7 +29,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 25 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 26 |  Logeshwari T | [Github](https://github.com/24149026-oss/leetcode-solution) | [Leetcode](https://leetcode.com/u/Logeshwari09/) | ![](https://leetcard.jacoblin.cool/Logeshwari09) 
 27 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-28 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+28 | Mahavishnu S | [Github](https://github.com/MahaVishnu13031507/leetcode-solution) | [Leetcode](https://leetcode.com/u/MAHAVISHNU007/) | ![](https://leetcard.jacoblin.cool/MAHAVISHNU007)
 29 | Mahima S | [Github](https://github.com/MAHIMASELVARAJ/leetcodesolution) | [Leetcode](https://leetcode.com/u/MahimaSelvaraj/) | ![](https://leetcard.jacoblin.cool/MahimaSelvaraj) 
 30 |  Mathan S | [Github](https://github.com/Mathan-cyber2/LEETCODESOLUTION) | [Leetcode](https://leetcode.com/u/MathanS07/) | ![](https://leetcard.jacoblin.cool/MathanS07)
 31 | Mydhili S | [Github](https://github.com/mydhili772007-spec/leetcode-solutions) | [Leetcode](https://leetcode.com/u/Mydhili_S/) | ![](https://leetcard.jacoblin.cool/Mydhili_S)
