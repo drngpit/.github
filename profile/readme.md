@@ -62,7 +62,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 57 | Subashree P | [Github](https://github.com/Subashree0617/leetcodesolutions) | [Leetcode](https://leetcode.com/u/SUBASHREEP) | ![](https://leetcard.jacoblin.cool/SUBASHREEP)
 58 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 59 | Tamil selvan M | [Github](https://github.com/tamilramana/leetcode-solutions) | [Leetcode](https://leetcode.com/u/tamil_selvan25/) | ![](https://leetcard.jacoblin.cool/tamil_selvan25)
-60 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+60 | Thanusree S | [Github](https://github.com/thanusree-s-2/my-project) | [Leetcode](https://leetcode.com/u/Thanu_02/) | ![](https://leetcard.jacoblin.cool/Thanu_02)
 61 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 62 | Vikashini K | [Github](https://github.com/vikakathir/leetcode-solutions) | [Leetcode](https://leetcode.com/u/VIKASHINIKATHIRESHKUMAR/) | ![](https://leetcard.jacoblin.cool/VIKASHINIKATHIRESHKUMAR)
 63 | YUVARAJ M | [Github](https://github.com/24149063-sys/lcodetrackYuv) | [Leetcode](https://leetcode.com/u/yuvaraj534/) | ![](https://leetcard.jacoblin.cool/yuvaraj534)
