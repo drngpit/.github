@@ -11,7 +11,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 7 | DHARANI PN | [Github](https://github.com/DHARANIPN/leetcode-solution) | [Leetcode](https://leetcode.com/u/sa9DGYgxvQ/) | ![](https://leetcard.jacoblin.cool/sa9DGYgxvQ)
 8 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 9 | Dharshini S | [Github](https://github.com/dharshu-29/leettracker) | [Leetcode](https://leetcode.com/u/29072006/) | ![](https://leetcard.jacoblin.cool/29072006)
-10 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+10 | Dharsikka B | [Github](https://github.com/dharsikka-b/leetcode-solutions) | [Leetcode](https://leetcode.com/u/Dharsikka/) | ![](https://leetcard.jacoblin.cool/Dharsikka)
 11 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 12 | Divyasri K | [Github](https://github.com/divyasri242006/leetcode-solutions) | [Leetcode](https://leetcode.com/u/Divya_532007/) | ![](https://leetcard.jacoblin.cool/Divya_532007)
 13 | Gopikrishnan S | [Github](https://github.com/CyberCracker27/Leetcode) | [Leetcode](https://leetcode.com/u/CyberCracker27/) | ![](https://leetcard.jacoblin.cool/CyberCracker27)
