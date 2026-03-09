@@ -7,6 +7,7 @@
 | S.No | Project Title              | Domain           | Technologies Used     | 
 | --- | -------------------------- | ---------------- | --------------------- | 
 | 1 | [DNS RECORD FINDER](https://github.com/Relic29/DNS-RECORD-FINDER) | Cyber Security | Python |
+| 1 | [URL_Attack_Classifier](https://github.com/Sahana05S/URL_Attack_Classifier---Version2) | Cyber Security | Javascript, Python |
 
 ### 🎓 Batch: **2024 – 2028**
 | S.No | Project Title              | Domain           | Technologies Used     |
